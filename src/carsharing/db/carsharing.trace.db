@@ -1,0 +1,3 @@
+2023-11-07 00:36:09 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPANY" not found; SQL statement:
+SELECT * FROM COMPANY [42102-200]
